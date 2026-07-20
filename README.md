@@ -75,7 +75,7 @@ Bangladeshi-Taka-Detection-API/
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone <https://github.com/Ferdaus71/Bangladeshi-Taka-Detection-API>
 cd Bangladeshi-Taka-Detection-API
 ```
 
@@ -408,7 +408,7 @@ sudo apt-get install docker.io -y
 sudo usermod -aG docker $USER
 
 # Clone and deploy
-git clone <repository-url>
+git clone <https://github.com/Ferdaus71/Bangladeshi-Taka-Detection-API>
 cd Bangladeshi-Taka-Detection-API
 docker build -t taka-detection .
 docker run -d -p 8000:8000 taka-detection
