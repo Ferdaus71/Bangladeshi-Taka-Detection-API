@@ -166,8 +166,8 @@ Bangladeshi-Taka-Detection-API/
 
 > Replace with your screenshot
 
-```text
-screenshots/"1st f.png" />
+```![Swagger UI](<1st f.png" />
+)
 
 ```
 
