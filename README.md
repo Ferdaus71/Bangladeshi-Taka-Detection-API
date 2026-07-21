@@ -1421,7 +1421,7 @@ pytest --cov=app tests/
 *Figure 1: Interactive API documentation (Swagger UI)*
 
 ### 2. API Response Example
-![API Response](screenshots/1st%20f.png)
+![API Response](1st f.png)
 *Figure 2: Successful API response with detection results*
 
 ### 3. Prediction Result
