@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Ferdaus71/Bangladeshi-Taka-Detection-API/main/assets/banner.png" alt="Banner" width="100%">
+
 
 ### 🚀 Production-Ready FastAPI REST API for Bangladeshi Banknote Detection using YOLOv11
 
@@ -1240,74 +1240,6 @@ Environment Variables
 
 ---
 
-## Step 7
-
-Deploy.
-
-Your API will be available at
-
-```
-https://your-app.onrender.com
-```
-
-Swagger
-
-```
-https://your-app.onrender.com/docs
-```
-
----
-
-# 🚄 Deploy on Railway
-
-Create a Railway account.
-
-```
-https://railway.app
-```
-
-Connect GitHub.
-
-Deploy.
-
-Start Command
-
-```bash
-uvicorn app.main:app --host 0.0.0.0 --port $PORT
-```
-
----
-
-# ☁ Deploy on AWS EC2
-
-Install Docker
-
-```bash
-sudo apt update
-
-sudo apt install docker.io
-```
-
-Clone project
-
-```bash
-git clone https://github.com/Ferdaus71/Bangladeshi-Taka-Detection-API.git
-```
-
-Build
-
-```bash
-docker build -t taka-api .
-```
-
-Run
-
-```bash
-docker run -d -p 8000:8000 taka-api
-```
-
----
-
 # ⚙ Environment Variables
 
 Example `.env`
@@ -1481,44 +1413,38 @@ pytest --cov=app tests/
 
 # 📸 Screenshots
 
-## Swagger UI
 
-```
-screenshots/swagger_ui.png
-```
+### 1. Swagger UI Documentation
+![Swagger UI](screenshots/1st.png)
+*Figure 1: Interactive API documentation (Swagger UI)*
 
----
+### 2. API Response Example
+![API Response](screenshots/1st%20f.png)
+*Figure 2: Successful API response with detection results*
 
-## API Prediction
+### 3. Prediction Result
+![Prediction Result](screenshots/prediction_result.png)
+*Figure 3: Detailed prediction response with detections*
 
-```
-screenshots/prediction_result.png
-```
+### 4. Docker Build
+![Docker Build](screenshots/docker_build.png)
+*Figure 4: Docker image build process*
 
----
+### 5. Docker Container Running
+![Docker Running](screenshots/docker_running.png)
+*Figure 5: Docker container running successfully*
 
-## Docker Build
+### 6. Test Results
+![Test Results](screenshots/test_results.png)
+*Figure 6: Comprehensive test suite results*
 
-```
-screenshots/docker_build.png
-```
+### 7. Cloud Deployment
+![Cloud Deployment](screenshots/cloud_deploy.png)
+*Figure 7: Cloud deployment on Render*
 
----
-
-## Docker Running
-
-```
-screenshots/docker_running.png
-```
-
----
-
-## Render Deployment
-
-```
-screenshots/render_deployment.png
-```
-
+### 8. API Testing
+![API Testing](screenshots/api_testing.png)
+*Figure 8: API testing using Postman/curl*
 ---
 
 # 📈 Performance
