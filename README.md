@@ -178,7 +178,7 @@ Bangladeshi-Taka-Detection-API/
 > Replace with your screenshot
 
 ```text
-screenshots/prediction.png
+screenshots/1st f.png
 ```
 
 ---
