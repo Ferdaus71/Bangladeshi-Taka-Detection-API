@@ -167,7 +167,7 @@ Bangladeshi-Taka-Detection-API/
 > Replace with your screenshot
 
 ```text
-screenshots/<img width="895" height="212" alt="1st" src="https://github.com/user-attachments/assets/df9859d9-508f-4cb0-8956-b09ea843cf87" />
+screenshots/"1st f.png" />
 
 ```
 
