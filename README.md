@@ -165,7 +165,7 @@ Bangladeshi-Taka-Detection-API/
 ## 📖 Swagger UI
 
 <p align="center">
-  <img src="<img width="952" height="339" alt="1st f" src="https://github.com/user-attachments/assets/f72afdc4-e366-48a0-a2de-f5c6e1c2096e" />
+  <img src="1st f.png" />
 ">
 </p>
 
