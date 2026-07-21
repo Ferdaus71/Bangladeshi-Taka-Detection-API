@@ -1415,7 +1415,8 @@ pytest --cov=app tests/
 
 
 ### 1. Swagger UI Documentation
-![Swagger UI](screenshots/1st.png)
+![Swagger UI](<img width="895" height="212" alt="1st" src="https://github.com/user-attachments/assets/70ef1cdf-eea0-4607-a873-39e3dff97449" />
+)
 *Figure 1: Interactive API documentation (Swagger UI)*
 
 ### 2. API Response Example
