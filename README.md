@@ -1,4 +1,4 @@
-# 🇧🇩 Bangladeshi Taka Note Detection API
+# Bangladeshi Taka Note Detection API
 
 <div align="center">
 
@@ -170,22 +170,28 @@ Bangladeshi-Taka-Detection-API/
 </p>
 
 ```
+---
+
+```
 ## 🐳 Docker Build
 
 <p align="center">
-  <img src="Docker builld.png" />
-">
+  <img src="Docker builld.png">
 </p>
 ---
-
-## Prediction Example
-
-> Replace with your screenshot
-
-```text
-screenshots/1st f.png
 ```
+## 📊 API Response
 
+<p align="center">
+  <img src="1st.png">
+</p>
+---
+```
+## 📬 Postman Testing
+
+<p align="center">
+  <img src="tk.png">
+</p>
 ---
 
 # 📈 Workflow
@@ -1367,7 +1373,6 @@ pip install -r requirements.txt
 **Part 5 (Final)** will include:
 
 - 🧪 Testing
-- 📸 Screenshots
 - 🛣 Roadmap
 - 🤝 Contributing
 - 📜 License
@@ -1417,41 +1422,7 @@ pytest --cov=app tests/
 
 ---
 
-# 📸 Screenshots
 
-
-### 1. Swagger UI Documentation
-![Swagger UI](<img width="895" height="212" alt="1st" src="https://github.com/user-attachments/assets/70ef1cdf-eea0-4607-a873-39e3dff97449" />
-)
-*Figure 1: Interactive API documentation (Swagger UI)*
-
-### 2. API Response Example
-![API Response](1st f.png)
-*Figure 2: Successful API response with detection results*
-
-### 3. Prediction Result
-![Prediction Result](screenshots/prediction_result.png)
-*Figure 3: Detailed prediction response with detections*
-
-### 4. Docker Build
-![Docker Build](screenshots/docker_build.png)
-*Figure 4: Docker image build process*
-
-### 5. Docker Container Running
-![Docker Running](screenshots/docker_running.png)
-*Figure 5: Docker container running successfully*
-
-### 6. Test Results
-![Test Results](screenshots/test_results.png)
-*Figure 6: Comprehensive test suite results*
-
-### 7. Cloud Deployment
-![Cloud Deployment](screenshots/cloud_deploy.png)
-*Figure 7: Cloud deployment on Render*
-
-### 8. API Testing
-![API Testing](screenshots/api_testing.png)
-*Figure 8: API testing using Postman/curl*
 ---
 
 # 📈 Performance
